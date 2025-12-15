@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 5G Network Slicing Orchestration Platform
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
@@ -373,3 +374,6 @@ For questions, issues, or suggestions:
 - 5G standardization bodies (3GPP)
 
 ---
+=======
+# 5G-Network-Slicing-using-SDN-NFV-and-NS3
+>>>>>>> 0433159bcae3d8ae725c286f1c7c6058b0ec7480
