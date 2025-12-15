@@ -347,7 +347,7 @@ python metrics_exporter.py --port 8080 --interval 2
 
 ### Development Setup
 ```bash
-git clone https://github.com/yuvarajpanditrathod/5G-Network-Slicing-using-SDN-NFV-and-NS3.git
+git clone https://github.com/Gouricse/5G-Network-Slicing-using-SDN-NFV-and-NS3.git
 cd 5G-Network-Slicing-using-SDN-NFV-and-NS3
 python3 -m venv venv
 source venv/bin/activate
@@ -360,11 +360,6 @@ source venv/bin/activate
 - Write unit tests for new features
 - Update documentation accordingly
 
-
-## 📧 Contact & Support
-
-For questions, issues, or suggestions:
-- **Email**: yuvarajpanditrathod@gmail.com
 
 ## 🙏 Acknowledgments
 
